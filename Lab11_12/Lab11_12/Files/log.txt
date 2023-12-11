@@ -1,0 +1,38 @@
+﻿11.12.2023 12:07:52 [INFO] WebDriver initialized.
+11.12.2023 12:08:00 [INFO] Enter account
+11.12.2023 12:08:01 [INFO] bookmark added
+11.12.2023 12:08:02 [INFO] bookmark add founded
+11.12.2023 12:10:01 [INFO] Enter account
+11.12.2023 12:10:03 [INFO] bookmark deleted
+11.12.2023 12:10:35 [INFO] bookmark delete not founded
+11.12.2023 12:12:09 [INFO] Enter account
+11.12.2023 12:12:11 [INFO] bookmark deleted
+11.12.2023 12:12:17 [INFO] bookmark delete founded
+11.12.2023 12:16:24 [INFO] Enter account
+11.12.2023 12:16:27 [INFO] bookmark deleted
+11.12.2023 12:16:29 [INFO] bookmark delete founded
+11.12.2023 12:16:37 [INFO] Enter account
+11.12.2023 12:16:38 [INFO] bookmark added
+11.12.2023 12:16:39 [INFO] bookmark add founded
+11.12.2023 12:18:23 [INFO] Enter account
+11.12.2023 12:18:24 [INFO] bookmark added
+11.12.2023 12:18:26 [INFO] bookmark add founded
+11.12.2023 12:18:38 [INFO] Enter account
+11.12.2023 12:18:40 [INFO] bookmark deleted
+11.12.2023 12:18:41 [INFO] bookmark delete founded
+11.12.2023 12:18:48 [INFO] Enter account
+11.12.2023 12:18:49 [INFO] bookmark added
+11.12.2023 12:18:51 [INFO] bookmark add founded
+11.12.2023 12:25:57 [INFO] Enter account
+11.12.2023 12:25:58 [INFO] bookmark added
+11.12.2023 12:26:00 [INFO] bookmark add founded
+11.12.2023 13:22:06 [INFO] Regestration is success
+11.12.2023 14:34:33 [INFO] Car is founded
+11.12.2023 14:37:25 [INFO] Car is founded
+11.12.2023 14:45:13 [INFO] Success tab
+11.12.2023 15:02:04 [INFO] Success search car for vin
+11.12.2023 15:03:45 [INFO] Enter account
+11.12.2023 15:03:46 [INFO] bookmark added
+11.12.2023 15:03:48 [INFO] bookmark add founded
+11.12.2023 15:14:28 [INFO] Success appreisal
+11.12.2023 15:31:52 [INFO] Enter account
